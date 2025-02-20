@@ -15,7 +15,7 @@
 </p>
 <br>
 <br>
-🌱Profesional en formación con experiencia en HTML, CSS, JavaScript, Java y Spring Boot, He participado en proyectos colaborativos, dando un enfoque proactivo y aplicando metodologías ágiles para garantizar el cumplimiento de objetivos y plazos. Mi capacidad para trabajar en equipo, adaptarme a nuevos desafíos y prestar atención al detalle me permite aportar valor significativo a los proyectos en los que participo. Estoy preparada para afrontar nuevos retos y aportar mis habilidades al desarrollo de aplicaciones web que impulsen el crecimiento empresarial, destacándome como una profesional orientada a resultados e innovación.
+🌱Desarrolladora FullStack con experiencia en HTML, CSS, JavaScript, Java y Spring Boot, He participado en proyectos colaborativos, dando un enfoque proactivo y aplicando metodologías ágiles para garantizar el cumplimiento de objetivos y plazos. Mi capacidad para trabajar en equipo, adaptarme a nuevos desafíos y prestar atención al detalle me permite aportar valor significativo a los proyectos en los que participo. Estoy preparada para afrontar nuevos retos y aportar mis habilidades al desarrollo de aplicaciones web que impulsen el crecimiento empresarial, destacándome como una profesional orientada a resultados e innovación.
 
 <br>
 
