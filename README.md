@@ -38,7 +38,7 @@
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/stephanie7cruz/Proyecto-Start-ioT" target="_blank">
+  <a href="https://github.com/Diana1Herrera/Proyecto-Start-ioT-FrontEnd.git " target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="" target="_blank">
